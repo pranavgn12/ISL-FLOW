@@ -44,9 +44,9 @@ The classifier is a Feed-Forward Neural Network (Multi-Layer Perceptron) built w
 ## 📂 Project Structure
 
 ```bash
-ISL-Smart-Typer/
+ISL-Flow/
 │
-├── data/                 # (Not included in repo) Place your dataset here
+├── data/                 Data set used https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl
 │   ├── A/
 │   ├── B/
 │   └── ...
