@@ -6,7 +6,7 @@
 A real-time computer vision application that translates Indian Sign Language (ISL) hand gestures into text. This project leverages **MediaPipe** for robust hand landmark extraction and a custom **Neural Network** trained on ISL gestures (A-Z, 0-9).
 It features a **"Smart Typer"** interface with auto-complete, clipboard integration, and high-quality UI rendering, designed to act as an assistive communication tool.
 
----
+
 
 ## 🚀 Key Features
 
@@ -17,7 +17,7 @@ It features a **"Smart Typer"** interface with auto-complete, clipboard integrat
 * **Clipboard Integration:** One-key shortcut to copy constructed sentences to the system clipboard.
 * **High-Quality UI:** Anti-aliased text rendering using Pillow (PIL) for a polished look.
 
----
+
 
 ## 🛠️ Technical Architecture
 
@@ -36,7 +36,7 @@ The classifier is a Feed-Forward Neural Network (Multi-Layer Perceptron) built w
     * Dense (64 neurons, ReLU activation) + Dropout (0.2)
 * **Output Layer:** Softmax activation (Classes: A-Z, 0-9).
 
----
+
 
 ## 📂 Project Structure
 
