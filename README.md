@@ -103,7 +103,7 @@ The classifier is a Feed-Forward Neural Network (Multi-Layer Perceptron) built w
 
 ## 📂 Project Structure
 
-```bash
+
 ISL-Smart-Typer/
 │
 ├── data/                 # (Not included in repo) Place your dataset here
