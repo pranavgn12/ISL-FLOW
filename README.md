@@ -1,9 +1,7 @@
 # AI-Powered Indian Sign Language (ISL) Recognition & Smart Typer
 
-![Python]
-![TensorFlow]
-![OpenCV]
-![MediaPipe]
+![Technologies](https://skillicons.dev/icons?i=py,tensorflow,opencv)(https://skillicons.dev)
+![MediaPipe](https://github.com/pranavgn12/ISL-FLOW/blob/main/media_pipe.jpg?raw=true)
 A real-time computer vision application that translates Indian Sign Language (ISL) hand gestures into text. This project leverages **MediaPipe** for robust hand landmark extraction and a custom **Neural Network** trained on ISL gestures (A-Z, 0-9).
 
 It features a **"Smart Typer"** interface with auto-complete, clipboard integration, and high-quality UI rendering, designed to act as an assistive communication tool.
